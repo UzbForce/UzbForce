@@ -1,4 +1,4 @@
-# Hey there! I'm Azizbek <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhnbDlzOTYxMjdtMHJldGprdXliYWtnZW1lcGp1ZWtsZnlwb2kzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="30px" style="margin-top: 5px">
+# Hey there! I'm Azizbek <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhnbDlzOTYxMjdtMHJldGprdXliYWtnZW1lcGp1ZWtsZnlwb2kzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="30px" style="margin-top: 10px">
 
 I'm a passionate and self-taught front-end developer from Uzbekistan 🇺🇿  
 I love building beautiful, user-friendly websites that feel alive ✨  
