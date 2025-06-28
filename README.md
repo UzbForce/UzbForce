@@ -17,7 +17,7 @@ Check out some of my favorite projects:
 ## 📫 Let's Connect!
 I’m always happy to meet other developers, learn from each other, and maybe collaborate on cool ideas 🤝
 
-- 💬 Telegram: [@Puparty_support](https://t.me/Puparty_support)
+- 💬 Telegram: [@Puparty_support](https://t.me/Wealth_Uktamov)
 - 🌟 GitHub: [github.com/UzbForce](https://github.com/UzbForce)
 
 Thanks for stopping by — keep building, keep dreaming 💖✨  
